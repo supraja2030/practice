@@ -5,8 +5,5 @@ public class main {
         vehicle.parameters("Toyota Corolla", 120);
         vehicle.parameters("Toyota Corolla", 120, "V6");
 
-
-
-
     }
 }
